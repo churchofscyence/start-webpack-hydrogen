@@ -25,8 +25,8 @@ npm run build
 ```
 
 ## References
-* [Webpack 5 - The Complete Guide (2021 Edition) - Source Code](https://github.com/PacktPublishing/Webpack-5-The-Complete-Guide-2021-Edition)
-* [Learn Webpack - Full Tutorial for Beginners - Colt Steele](https://www.youtube.com/watch?v=MpGLUVbqoYQ&list=WL&index=4&t=2341s)
+* [Webpack Official Website](https://webpack.js.org/)
+* [Learn Webpack - Full Tutorial for Beginners - YouTube - Colt Steele](https://www.youtube.com/watch?v=MpGLUVbqoYQ&list=WL&index=4&t=2341s)
 
 ## Errors and Solutions
 * [Getting Error from webpack-cli: "TypeError: merge is not a function" in webpack config](https://stackoverflow.com/questions/62846123/getting-error-from-webpack-cli-typeerror-merge-is-not-a-function-in-webpack)
